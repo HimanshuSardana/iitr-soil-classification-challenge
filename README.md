@@ -1,7 +1,3 @@
-Sure! Here's a polished and engaging README you can use for your soil classification model project:
-
----
-
 # Soil Classification using ResNet50 with Focal Loss
 
 **Team Name:** 404NotFound
