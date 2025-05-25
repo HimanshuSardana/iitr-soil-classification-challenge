@@ -1,6 +1,7 @@
 # Soil Classification using ResNet50 with Focal Loss
 
 **Team Name:** 404NotFound
+
 **Notebook URL:** [Click here](https://www.kaggle.com/code/himanshusardana2/soil-classification-using-resnet50) 
 
 ---
@@ -75,12 +76,3 @@ Confusion matrix plots are generated to analyze per-class prediction performance
 5. Evaluate results and visualize metrics.
 
 ---
-
-## 📬 Contact
-
-Feel free to reach out if you want to collaborate, have questions, or feedback!
-
----
-
-This README will give your project a professional and clear presentation while highlighting your excellent results. Want me to help with a badge or deployment instructions?
-
